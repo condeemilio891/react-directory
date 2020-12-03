@@ -52,7 +52,7 @@ class Department extends Component {
 
     return (
       <div>
-      <input type="text" placeholder="Enter item to be searched" style={elementStyle} onChange={(e)=>this.searchSpace(e)} />
+      <input type="text" placeholder="Name or Department" style={elementStyle} onChange={(e)=>this.searchSpace(e)} />
       {employees}
       </div>
     )

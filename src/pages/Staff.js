@@ -17,7 +17,7 @@ class Staff extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>EmployeeList</Title>
+        <Title>Employees</Title>
         {this.state.employees.map(employee => (
           <EmployeeCard
             id={employee.id}
@@ -25,7 +25,7 @@ class Staff extends Component {
             name={employee.name}
             image={employee.image}
             occupation={employee.occupation}
-            location={employee.location}
+            DOB={employee.DOB}
           />
         ))}
       </Wrapper>

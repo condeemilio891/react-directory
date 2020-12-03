@@ -2,21 +2,21 @@
     {
       "id": 1,
       "name": "Usmaan Wheeler",
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/SouthParkChef.png",
       "occupation": "Head Chef",
       "DOB": "03/17/1987"
     },
     {
       "id": 2,
       "name": "Sarina Metcalfe",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "image": "https://combineoverwiki.net/images/thumb/f/f5/Alyx_Vance_Portrait.jpg/250px-Alyx_Vance_Portrait.jpg",
       "occupation": "Biotechnology",
       "DOB": "07/27/1960"
     },
     {
       "id": 3,
       "name": "Daniall Bowes",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Ryan_Howard_%28The_Office%29.jpg/235px-Ryan_Howard_%28The_Office%29.jpg",
       "occupation": "Intern",
       "DOB": "12/25/1991"
     },
@@ -30,7 +30,7 @@
     {
       "id": 5,
       "name": "Kamran Salas",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/20/Gordon_Freeman.png",
       "occupation": "Theoretical Physics",
       "DOB": "10/12/1976"
     },
@@ -72,8 +72,8 @@
     {
       "id": 11,
       "name": "Tyron Hammer",
-      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-      "occupation": "Head of Sequirity",
+      "image": "https://developer.valvesoftware.com/w/images/2/2c/Barney.jpg",
+      "occupation": "Head of security",
       "DOB": "1/17/1987"
     },
     {
