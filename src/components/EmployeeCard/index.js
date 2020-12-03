@@ -16,7 +16,7 @@ function EmployeeCard(props) {
             <strong>Occupation:</strong> {props.occupation}
           </li>
           <li>
-            <strong>DOB:</strong> {props.DOB}
+            <strong>DOB:</strong> {props.dob}
           </li>
         </ul>
       </div>
