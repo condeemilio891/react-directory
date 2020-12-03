@@ -15,6 +15,7 @@ class Staff extends Component {
   componentDidMount(){
     API.getUserData()
     .then(res=> this.setState({employees: res.data.results}))
+
     console.log(employees)
   }
 
