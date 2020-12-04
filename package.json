@@ -2,7 +2,7 @@
   "name": "firstreactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/react-directory",
+  "homepage": "https://condeemilio891.github.io/react-directory",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -18,7 +18,7 @@
   
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
