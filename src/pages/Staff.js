@@ -3,6 +3,7 @@ import EmployeeCard from "../components/EmployeeCard";
 import Wrapper from "../components/Wrapper";
 import Title from "../components/Title/";
 import employees from "../employees.json";
+import Row from "../components/Row"
 
 class Staff extends Component {
   
@@ -16,7 +17,7 @@ class Staff extends Component {
   // Map over this.state.employees and render a Card component for each Employee object
   render() {
     return (
-      <row>
+      <Row>
         <Title>Employees</Title>
         {this.state.employees.map(employee => (
           <EmployeeCard
@@ -28,7 +29,7 @@ class Staff extends Component {
             DOB={employee.DOB}
           />
         ))}
-      </row>
+      </Row>
     );
   }
 }
