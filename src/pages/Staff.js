@@ -16,7 +16,8 @@ class Staff extends Component {
   // Map over this.state.employees and render a Card component for each Employee object
   render() {
     return (
-      <Wrapper>
+      // <Wrapper>
+      <row>
         <Title>Employees</Title>
         {this.state.employees.map(employee => (
           <EmployeeCard
@@ -28,7 +29,8 @@ class Staff extends Component {
             DOB={employee.DOB}
           />
         ))}
-      </Wrapper>
+        </row>
+      // </Wrapper>
     );
   }
 }
